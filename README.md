@@ -1,6 +1,6 @@
-# BaseDatosMariabdBsz
+# MySqlBsz
 - Un script para hacer una base datos mediante kali minit dentro de ubuntu , crea una tabla donde ve registros , agregar y eliminar 
-### uso de de mariabd y mysql
+### uso de de mysql
 - sudo mysql -u root -p
 
 # Instrucciones para Subir Código SQL a GitHub
