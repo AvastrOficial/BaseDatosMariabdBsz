@@ -24,4 +24,6 @@
 # FOTOS VERSION 2 :
 ![6mmk68](https://github.com/user-attachments/assets/3842b2fe-56cf-4f9d-8f59-339ff7154c18)
 ![bd3zy4](https://github.com/user-attachments/assets/a3ed231e-2155-4e0c-a48a-3aa3b13782b3)
-
+# VERCION 3 :
+### MEJORAS 
+1. Agregamos 1 opciones una de consultas para poder insertar gran cantidades de registros sin estar haciendo una por una igual ver el resultado de los registros
