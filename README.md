@@ -26,4 +26,9 @@
 ![bd3zy4](https://github.com/user-attachments/assets/a3ed231e-2155-4e0c-a48a-3aa3b13782b3)
 # VERCION 3 :
 ### MEJORAS 
-1. Agregamos 1 opciones una de consultas para poder insertar gran cantidades de registros sin estar haciendo una por una igual ver el resultado de los registros
+Agregamos 3 opciones una de consultas para poder insertar gran cantidades de registros sin estar haciendo una por una igual ver el resultado de los registros
+<br></br>
+1. consultas hacia un sql de la base datos determinada al nombre
+2. insertar 100 registros modo de testeo
+3. borrar registros de toda la base datos
+![1](https://github.com/user-attachments/assets/8c4ae18b-cc59-49e9-834e-4dda15abf4c7)
